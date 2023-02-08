@@ -1,8 +1,17 @@
 body {
+  margin: 0px;
+  padding: 0px;
   background-color: #ECEFF1;
-  background-image: url(images/backgroundalt.svg);
+  background-image: url(images/background2.svg);
   background-size: cover;
-  background-position: bottom left;
+  background-attachment: fixed;
+}
+
+.wrapper {
+  margin: 0px;
+  background-color: red;
+  background-image: url(images/background2.svg);
+  background-size: cover;
   background-attachment: fixed;
 }
 
